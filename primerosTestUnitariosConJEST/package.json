@@ -1,7 +1,7 @@
 {
   "name": "primerostestunitariosconjest",
   "version": "1.0.0",
-  "main": "main.js",
+  "main": "calc.js",
   "scripts": {
     "test": "jest"
   },
@@ -9,7 +9,7 @@
   "author": "fabricio turrina",
   "license": "ISC",
   "description": "",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^29.0.2"
   }
 }
