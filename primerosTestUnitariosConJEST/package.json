@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "main": "calc.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:coverage": "jest --coverage"
   },
   "keywords": [],
   "author": "fabricio turrina",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "jest": "^29.0.2"
-  }
+  },
+  "description": ""
 }
